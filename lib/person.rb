@@ -13,6 +13,13 @@ class Person
     @name
   end 
   
+  def job=(career)
+    @job = career
+  end 
+  
+  def job 
+  end 
+  
   
   
 end 
